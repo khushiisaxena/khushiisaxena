@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,git,python,cpp,mysql,html,css,javascript" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java,c,git,python,cpp,mysql,html,css,javascript,react.js" height="60"/>
   </a>
 </p>
 
