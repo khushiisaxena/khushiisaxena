@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 <h1 align="center" color="white">Hi! I'm Khushi Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-<h3 align="center" color="white">Pre-final year CSE student at IIIT Vadodara</h3>
+<h3 align="center" color="white">Final year CSE student at IIIT Vadodara</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 🌱 I’m currently learning **React** 
+- 🌱 I’m currently learning **Backend Development** 
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,git,python,cpp,mysql,html,css,javascript,react,typescript,graphql" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java,c,git,python,cpp,mysql,html,css,javascript,react,typescript,graphql,latex" height="60"/>
   </a>
 </p>
 
