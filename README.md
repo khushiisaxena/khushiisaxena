@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,git,python,cpp,mysql,html,css,javascript,react,typescript,graphql,latex" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java,c,git,python,mysql,html,css,javascript,react,typescript,graphql,latex" height="60"/>
   </a>
 </p>
 
@@ -52,9 +52,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   
-<a href="https://www.codechef.com/users/iiitv202151078" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="shrutig1287" height="50" width="150" /></a>
-<a href="https://leetcode.com/heyykhushi/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shruti_27" height="50" width="150" /></a>
-<a href="https://www.hackerrank.com/khushi24saxena" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shrutig1287" height="50" width="150" /></a>
+<a href="https://leetcode.com/heyykhushi/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="heyykhushi" height="50" width="170" /></a>
+<a href="https://www.codechef.com/users/iiitv202151078" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="iiitv202151078" height="50" width="170" /></a>
+<a href="https://www.geeksforgeeks.org/user/khushi_saxena24/" target="blank"><img align="center" src="https://img.shields.io/badge/Geeksforgeeks-000000?style=for-the-badge&logo=GeeksForGeeks&logoColor=#d16c06" alt="khushi_saxena24" height="50" width="170" /></a>
+<a href="https://www.hackerrank.com/khushi24saxena" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="khushi24saxena" height="50" width="170" /></a>
 
 </p>
 
